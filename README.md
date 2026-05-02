@@ -124,10 +124,3 @@ python main.py
 ## 📌 Conclusion
 
 SOM is an effective tool for customer segmentation, providing both clustering and visualization capabilities. It helps businesses understand customer behavior and make data-driven decisions.
-
----
-
-## 🙌 Author
-
-Student Assignment Submission
-
